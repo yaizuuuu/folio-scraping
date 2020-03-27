@@ -1,0 +1,6 @@
+[submodule "folio-scraping-api"]
+	path = folio-scraping-api
+	url = https://github.com/yaizuuuu/folio-scraping-api.git
+[submodule "folio-scraping-front"]
+	path = folio-scraping-front
+	url = https://github.com/yaizuuuu/folio-scraping-front.git
