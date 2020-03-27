@@ -8,5 +8,7 @@
 # アプリケーションの実行
 
 * `docker-compose -f ./docker/docker-compose.yml up`
+* localhost:3000にアクセスする
+* テキストフォームに `pets` などのテーマのURIを入力して `Save` をクリック
 
-localhost:3000にアクセスする
+![イメージ画像](./sample.png)
